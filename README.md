@@ -2,9 +2,9 @@
  <h3 align="center">A passionate Fullstack Web Developer/Systems Engineer</h3>
 <ol>
 <li>- 👀 I’m interested in systems development</li>
-<li>- 🌱 I’m currently learning full stack develoment incoparating **python, c, C#, React, Django**</li>
+<li>- 🌱 I’m currently learning full stack develoment incoparating <b> Python, C, C#, React, Django </b></li>
 <li>- 💞️ I’m looking to collaborate on projects that bring out the best of me</li>
-<li>- 📫 reach me on mail **ngerajustin@gmai.com** or **kelvinhassandev@gmail.com** </li>
+ <li>- 📫 reach me on mail <b><i>ngerajustin@gmai.com</b></i> or <b><i>kelvinhassandev@gmail.com</b></i></li>
 <li>- :shoe: follow me on twitter @alshabaiby and also give me a follow on git so that we can educate each other</li>
 </ol>
 <h3 align="left">Connect with me:</h3>
